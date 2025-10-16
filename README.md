@@ -1,1 +1,1 @@
-# Text-Classification
+Text Classification is done by sorting 10K datas from famous IMBD Dataset and used Bag of Words to generate embeddings. After that we used Random Forest(RF) as our classifier model without any hyperparameter tuning.
